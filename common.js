@@ -1,3 +1,3 @@
 function moveDayJs(){
-    alert("");
+    window.location.href("./dayjs/index.html");
 }
